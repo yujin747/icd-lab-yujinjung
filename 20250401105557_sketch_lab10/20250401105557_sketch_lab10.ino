@@ -38,7 +38,7 @@ delay(random(3000-6000));
 
 
   lcd.clear();                 
-  lcd.print("Press NOW");  // Ask the player to press the button as fast as possible
+  lcd.print("Hello World");  // Ask the player to press the button as fast as possible
 
   unsigned long startTime = millis();  // Record the time right button press
 
